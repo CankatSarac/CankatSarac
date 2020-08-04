@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/l2YOxU0vp6dD91UC4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/running-motivation-bojack-horseman-l2YOxU0vp6dD91UC4">via GIPHY</a></p>
+![image](https://giphy.com/gifs/running-motivation-bojack-horseman-l2YOxU0vp6dD91UC4)
 
 ### Hi 👋 
 I am Cankat! I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, Java, PyTorch, and  Flutter. Also, I have just started tech-blogging you can check them on my personal web page
