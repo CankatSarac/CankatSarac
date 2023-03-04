@@ -4,7 +4,7 @@
 ### Hi 👋 
 I am Cankat! I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, Java, PyTorch, and  Flutter. Also, I have just started tech-blogging you can check them on [my personal web page.](https://cankatsarac.com/)
 
-- 👨🏽‍💻 Current work in Arçelik Global.
+- 👨🏽‍💻 Current work in SelectGroup UK.
 - 🤝 Open for collaborations
 - 🌐 Visit my [porfolio website](https://cankatsarac.com/) for complete background and contact.
 
